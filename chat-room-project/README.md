@@ -13,8 +13,5 @@ class in the chat module.  Three basic actions are covered:
 2. CHAT
 3. LEAVE
 
-### Completed WebSocketChatServer
-Implemented all TODOs that were inside WebSocketChatServer in order to implement each method's description.
-
 ### Run the application with command
 mvn build; mvn spring-boot:run
